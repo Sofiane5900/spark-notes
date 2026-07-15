@@ -5,7 +5,7 @@
 **A local-first second brain that catches the thought before it disappears.**
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
-[![Avalonia](https://img.shields.io/badge/Avalonia-UI-9C4FE4)](https://avaloniaui.net/)
+[![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-mobile--first-512BD4?logo=dotnet)](https://learn.microsoft.com/dotnet/maui/)
 [![SQLite](https://img.shields.io/badge/SQLite-local--first-003B57)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -47,7 +47,7 @@ Spark captures the thought the instant it hits, raw, by voice or text, tied to w
 | Component | Detail |
 |---|---|
 | Language | C# on .NET 8+ |
-| UI | Avalonia UI (cross-platform desktop) |
+| UI | .NET MAUI (mobile-first: iOS + Android) |
 | Storage | Entity Framework Core + SQLite, fully local |
 | AI | Embeddings + LLM API — used for finding and classifying connection |
 
