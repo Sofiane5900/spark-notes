@@ -42,6 +42,14 @@ Spark captures the thought the instant it hits, raw, by voice or text, tied to w
 
 ---
 
+## Philosophy
+
+- **Thinking isn't expertise.** You don't need a PhD to form real intuitions about a field. Spark gives those intuitions somewhere to mature.
+- **Preserve the voice.** A clean rewrite is worth less than a raw, authentic thought.
+- **Friction where it counts, none where it doesn't.** Capture should be instant. Confronting your own ideas should take effort.
+
+---
+
 ## Tech Stack
 
 | Component | Detail |
